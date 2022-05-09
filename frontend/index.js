@@ -5,23 +5,6 @@ import Form from './components/Form'
 import './styles/reset.css'
 import './styles/styles.css'
 
-const todos = [
-  {
-    name: 'Organize Garage',
-    id: Date.now(),
-    completed: false
-  },
-  {
-    name: 'Bake Cookies',
-    id: Date.now(),
-    completed: false
-  },
-  {
-    name: 'Deshed Dogs',
-    id: Date.now(),
-    completed: false
-  }
-]
 
 
 
