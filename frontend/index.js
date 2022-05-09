@@ -13,7 +13,6 @@ render(
   <React.StrictMode>
     <h1>Todo App</h1>
     <App />
-    <Form />
   </React.StrictMode>
   , document.getElementById('root')
 )

@@ -1,11 +1,12 @@
 import React from 'react'
 
-export default class Form extends React.Component {
-
+class Form extends React.Component {
   render() {
-    return (
-      <div>
-      </div>
-    )
+    return (<form>
+      <input />
+      <button>Add Todo</button>
+    </form>)
   }
 }
+
+export default Form;
